@@ -1,0 +1,47 @@
+---
+name: Company Name
+headline: Company Name
+level:
+sub-categories:
+ - 
+attractions:
+monthly_subscription:
+logo_path:wine-pour.jpg
+banner_path:
+youtube_id:
+street: 
+city: 
+cities: 
+ - 
+state:
+zip:
+address:
+map:
+phone:
+email:
+website:
+hours-of-operation:
+  monday_daily_status: Closed
+  monday_open_time: 9:00 am
+  monday_close_time: 5:00 pm
+  tuesday_daily_status: Closed
+  tuesday_open_time: 9:00 am
+  tuesday_close_time: 5:00 pm
+  wednesday_daily_status: Closed
+  wednesday_open_time: 9:00 am
+  wednesday_close_time: 5:00 pm
+  thursday_daily_status: Open
+  thursday_open_time: 4:00 pm
+  thursday_close_time: 8:00 pm
+  friday_daily_status: Open
+  friday_open_time: 12:00 pm
+  friday_close_time: 8:00 pm
+  saturday_daily_status: Open
+  saturday_open_time: 12:00 pm
+  saturday_close_time: 8:00 pm
+  sunday_daily_status: Open
+  sunday_open_time: 11:00 pm
+  sunday_close_time: 8:00 pm
+photos:
+  - photo_path:
+---
